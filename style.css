@@ -1,0 +1,19 @@
+.color{
+    background-color: rgb(36,53,63);
+}
+.fontcolor{
+    color :rgb(23,162,184);
+    border-color: rgb(23,162,184);
+}
+button:hover{
+    background-color:rgb(23,162,184) ;
+    color:white;
+}
+a:hover{
+    text-decoration: underline !important;
+    text-decoration-color: white;
+    
+}
+.link:hover{
+    text-decoration: none !important;
+}
